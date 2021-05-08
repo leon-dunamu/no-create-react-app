@@ -77,4 +77,4 @@ $ npm run dev # watching wepback
 
 ## ISSUE & PULL REQUEST
 
-If you find bugs, Tell me anytime.
+If you find bugs, Tell me anything.
