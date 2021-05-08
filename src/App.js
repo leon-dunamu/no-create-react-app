@@ -1,11 +1,19 @@
 import React from 'react';
-import AppRouter from 'src/components/router/Router';
+import './App.css';
 
-function App(props) {
+function App() {
   return (
-    <>
-      <AppRouter {...props} />
-    </>
+    <div
+      style={{
+        display: 'flex',
+        height: '100%',
+        justifyContent: 'center',
+        alignItems: 'center',
+        fontSize: '24px',
+      }}
+    >
+      Customize Your React App!
+    </div>
   );
 }
 
