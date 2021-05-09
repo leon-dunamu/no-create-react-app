@@ -13,7 +13,6 @@ module.exports = {
   resolve: {
     extensions: ['*', '.js', '.jsx'],
     alias: {
-      root: __dirname,
       src: path.resolve(__dirname, 'src'),
     },
     modules: [path.join(__dirname, 'src'), 'node_modules'],
